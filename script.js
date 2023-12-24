@@ -1,7 +1,4 @@
-// script.js
-
 document.addEventListener('DOMContentLoaded', function () {
-    // Get all the list items under the "Projects" section
     var projectListItems = document.querySelectorAll('ol li');
 
     // Add a click event listener to each list item
